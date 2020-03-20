@@ -36,7 +36,7 @@
     "url": "https://github.com/kesne/acorn-dynamic-import/issues"
   },
   "dependencies": {
-    "acorn": "^4.0.3"
+    "acorn": "^7.1.1"
   },
   "description": "Support dynamic imports in acorn",
   "devDependencies": {
